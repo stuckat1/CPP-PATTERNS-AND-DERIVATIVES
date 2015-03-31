@@ -15,6 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\DoubleDigital.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PayOff2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Random1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="src\SimpleMC3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -24,30 +33,21 @@
     <ClCompile Include="src\VanillaMain1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PayOff2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="src\DoubleDigital.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="src\Random1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\SimpleMC3.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Vanilla1.h">
+    <ClInclude Include="src\DoubleDigital.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\PayOff2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\DoubleDigital.h">
+    <ClInclude Include="src\Random1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Random1.h">
+    <ClInclude Include="src\SimpleMC3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Vanilla1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

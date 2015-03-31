@@ -1,5 +1,0 @@
-<map id="PayOff" name="PayOff">
-<area shape="rect" id="node2" href="$class_pay_off_call.html" title="PayOffCall" alt="" coords="5,80,88,107"/>
-<area shape="rect" id="node3" href="$class_pay_off_double_digital.html" title="PayOffDoubleDigital" alt="" coords="113,80,250,107"/>
-<area shape="rect" id="node4" href="$class_pay_off_put.html" title="PayOffPut" alt="" coords="274,80,355,107"/>
-</map>
